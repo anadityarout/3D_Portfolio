@@ -125,7 +125,7 @@
   background-color: #000;
   object-fit: cover;
 }
-.work-image img {
+.work-image  {
   max-width: 100%;
   max-height: 350px;
 }

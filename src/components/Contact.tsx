@@ -11,26 +11,19 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a href="mailto:example@mail.com" data-cursor="disable">
-                abc@gmail.com
+                Pradeepdhaka291@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
               <a href="tel:+919920782622" data-cursor="disable">
-                +91 9988776655
+                +91 93116 58647
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
-            <a
-              href="https://github.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Github <MdArrowOutward />
-            </a>
+           
             <a
               href="https://www.linkedin.com"
               target="_blank"
@@ -58,7 +51,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Kabir Singh</span>
+              Lighting Designer <br /> by <span>Pradeep Dhaka</span>
             </h2>
             <h5>
               <MdCopyright /> 2025
