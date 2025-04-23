@@ -90,8 +90,10 @@ const WhatIDo = () => {
               <h3>LIGHTING</h3>
               <h4>Designer</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+              Indore Lighting, outdoor lighting, fasade lighting, Sports lighting,
+	            Understanding of lighting technologies (LED, incandescent, fluorescent)
+            	Ability to collaborate with designers, directors, and technical staff.
+
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -124,8 +126,10 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+              Indore Lighting, outdoor lighting, fasade lighting, Sports lighting,
+            	Understanding of lighting technologies (LED, incandescent, fluorescent)
+            	Ability to collaborate with designers, directors, and technical staff.
+
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
